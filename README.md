@@ -47,7 +47,7 @@ By using this tool, you acknowledge that you are fully responsible for any conse
 **You must unlock this tool to use it.**  
 To get the unlock code, follow these steps:
 
-1. **Contact us on Instagram** at [@cyberphantomsyndicate](https://instagram.com/cyberphantomsyndicate).
+1. **Contact us on Instagram** at [@Shadow0null](https://instagram.com/cyberphantomsyndicate).
 2. **Send a message** asking for the unlock code.
 3. After receiving the unlock code from us, you can proceed to use the tool.
 
@@ -57,7 +57,7 @@ To get the unlock code, follow these steps:
 1. **Clone the repository** to your local machine:
 
     ```bash
-    git clone https://github.com/cyberphantomsyndicate/WebXpose.git
+    git clone https://github.com/shadow0null/WebXpose.git
     ```
 
 2. **Navigate to the project directory**:
@@ -89,8 +89,8 @@ Ensure that you comply with all applicable laws and regulations in your country 
 ## **Contact**  
 For questions or support, you can reach out to us through the following channels:
 
-- **GitHub**: [cyberphantomsyndicate](https://github.com/cyberphantomsyndicate)
-- **Instagram**: [@cyberphantomsyndicate](https://instagram.com/cyberphantomsyndicate)
+- **GitHub**: [Shadow0Null](https://github.com/cyberphantomsyndicate)
+- **Instagram**: [@Shadow0Null](https://instagram.com/shadow0null)
 
 ---
 
